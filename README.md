@@ -1,2 +1,2 @@
 # documentazione
-documenti non codici informatica
+in questa repository sono inseriti tutti i documenti che non sono di python
